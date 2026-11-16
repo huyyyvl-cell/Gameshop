@@ -1,0 +1,28 @@
+Jan Moeskops 25-11-2024
+Installatie GameShopDB
+---------------------------
+
+Beschrijving van bestanden:
+LeesDitEerst.txt			 : Dit bestand waarin je leest
+start.sh				 : Het installatiestart script
+
+installStap1-Database+DBuser.sql	 : database voor root
+installStap2-tabellen+gebruiker+data.sql : database voor game/gamepw
+
+config.php				 : website config en settings voor DB
+home.php				 : website infopagina
+index.php				 : Startpagina website
+leveranciers_aanpassen.php		 : website
+leveranciers_toevoegen.php		 : website
+leveranciers_tonen.php			 : website
+navbar.php				 : website navigatie balk
+alle_producten.php			 : website
+product_aanpassen.php			 : website
+product_toevoegen.php			 : website
+product_verwijderen.php			 : website
+GameShopLogo.png			 : website afbeelding/logo
+
+
+Installeer de GameShopDB met volgend commando
+
+bash start.sh
