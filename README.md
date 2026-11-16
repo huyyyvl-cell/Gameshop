@@ -1,7 +1,16 @@
 # 🎮 GameShop Webapplicatie & Database
 
 Een PHP- en MySQL-webapplicatie voor het beheren van producten en leveranciers binnen een gameshop[cite: 2, 3, 9].
-
+## Installatiestappen
+```bash
+cd
+git clone https://github.com/huyyyvl-cell/Gameshop/
+```
+```bash
+cd Gameshop/
+chmod +x start.sh
+./start.sh
+```
 ## 📋 Overzicht van de bestanden
 
 | Bestand | Beschrijving |
